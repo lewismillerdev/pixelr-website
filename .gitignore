@@ -1,0 +1,6 @@
+
+# ignore all DS Mac os files
+*.DS_Store
+
+# ignore node dependency directories
+node_modules/
