@@ -2,7 +2,7 @@
     "name": "pixelr",
     "version": "2.0.0",
     "description": "Pixelr 2.0 site",
-    "main": "src/index.html/",
+    "main": "src/index.html",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "dev": "node server.js"
@@ -12,9 +12,10 @@
     "dependencies": {
         "connect": "^3.7.0",
         "http-server": "^0.11.1",
+        "mem": "^6.0.1",
         "npm": "^6.10.3",
         "serve-static": "^1.14.1",
-        "three-orbitcontrols": "^2.102.2"
+        "three-orbitcontrols": "^2.110.3"
     },
     "devDependencies": {
         "three": "^0.106.2"

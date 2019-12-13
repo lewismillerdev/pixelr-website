@@ -1,0 +1,21 @@
+{
+    "short_name": "Pixelr",
+    "name": "Pixelr",
+    "icons": [
+        {
+            "src": "/icons/android-icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+    },
+        {
+            "src": "/icons/apple-icon-180x180.png",
+            "type": "image/png",
+            "sizes": "180x180"
+    }
+  ],
+    "start_url": "/?source=pwa",
+    "background_color": "#160820",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#ffcc00"
+}
